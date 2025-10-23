@@ -1,4 +1,3 @@
-// Erro corrigido aqui: a importação agora é uma URL
 import { createClient } from 'https://esm.sh/@supabase/supabase-js@2'
 
 console.log('Função de e-mail iniciada.');
